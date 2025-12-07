@@ -1,16 +1,22 @@
-## Hi there 👋
+👨‍💻 Vitor Hernandes — Full Stack Developer in Progress
 
-<!--
-**VitorHernandes16/VitorHernandes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório!
+Sou Técnico em Desenvolvimento de Sistemas e futuro Engenheiro de Software, estudando diariamente para me tornar um Desenvolvedor Full Stack completo, com foco em boas práticas, projetos reais e domínio de ponta a ponta — do front ao backend, passando por DevOps e infraestrutura.
+---
+📚 Tecnologias que estou estudando
 
-Here are some ideas to get you started:
+HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS
+
+JavaScript
+
+Node.js
+
+React
+
+TailwindCSS
+
+PostgreSQL
+
+Redis
