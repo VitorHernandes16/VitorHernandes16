@@ -3,6 +3,8 @@
 Bem-vindo!
 Sou Técnico em Desenvolvimento de Sistemas e futuro Engenheiro de Software, estudando diariamente para me tornar um Desenvolvedor Full Stack completo, com foco em boas práticas, projetos reais e domínio de ponta a ponta — do front ao backend, passando por DevOps e infraestrutura.
 
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
